@@ -1,0 +1,1 @@
+[{"outputType":{"type":"INSTANT_RUN_MERGED_MANIFESTS"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":26,"versionName":"2.6","enabled":true,"outputFile":"pocketMoodle-debug.apk","fullName":"debug","baseName":"debug"},"path":"AndroidManifest.xml","properties":{"packageId":"com.xmcu.mobile","split":"","minSdkVersion":"16"}}]
